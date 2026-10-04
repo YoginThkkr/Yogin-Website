@@ -1,0 +1,322 @@
+{
+  "profile": {
+    "name": "Yogin Thakkar",
+    "shortName": "Yogin",
+    "tagline": "Building academic programmes that hold up to scrutiny and get students over the line.",
+    "role": "Higher Education Leader",
+    "specialization": "Accounting, Finance & Fintech Education",
+    "location": "London, UK",
+    "yearsOfExperience": 8,
+    "bio": "A Higher Education leader working across UK and Indian institutions, specialising in programme leadership, curriculum innovation and quality assurance. As a Fellow of Advance HE (FHEA) with three master's degrees, I bring hands-on experience of programme design, validation and review, grounded in a background in financial services compliance and risk. I have built and led academic portfolios with 100% pass rates, developed teaching teams, and worked with partners and PSRBs to keep provision aligned with the UK Quality Code.",
+    "avatarSvg": "<svg viewBox='0 0 160 160' xmlns='http://www.w3.org/2000/svg' role='img' aria-label='Yogin Thakkar monogram'><circle cx='80' cy='80' r='78' fill='#ffffff' stroke='#000000' stroke-width='1.5'/><circle cx='80' cy='80' r='64' fill='none' stroke='#000000' stroke-width='1'/><text x='80' y='97' font-family='Kanit, sans-serif' font-size='44' font-weight='600' text-anchor='middle' fill='#000000'>YT</text></svg>",
+    "avatar": {
+      "front": "avatar-front",
+      "threeQuarter": "avatar-side-right",
+      "threeQuarterLeft": "avatar-side-left",
+      "lookUpLeft": "avatar-side-left",
+      "lookUpRight": "avatar-side-right"
+    },
+    "avatarResume": {
+      "front": "avatar-robot"
+    },
+    "cv": "Yogin-Thakkar-CV.pdf",
+    "social": {
+      "github": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/yogin-thakkar",
+      "email": "yogin.thkkr@gmail.com",
+      "phone": "",
+      "website": ""
+    }
+  },
+  "credentials": [
+    {
+      "label": "FHEA",
+      "title": "Fellow of Advance HE",
+      "sticker": {
+        "label": "FHEA",
+        "shape": "circle",
+        "color": "#FED7AA"
+      }
+    },
+    {
+      "label": "CMBE",
+      "title": "Chartered Management and Business Educator",
+      "sticker": {
+        "label": "CMBE",
+        "shape": "square",
+        "color": "#BBF7D0"
+      }
+    },
+    {
+      "label": "CIMA",
+      "title": "Chartered Institute of Management Accountants",
+      "sticker": {
+        "label": "CIMA",
+        "shape": "pill",
+        "color": "#BAE6FD"
+      }
+    },
+    {
+      "label": "BLOOMBERG",
+      "title": "Bloomberg Certified: Market Concepts & ESG",
+      "sticker": {
+        "label": "BLOOMBERG",
+        "shape": "tag",
+        "color": "#FEF08A"
+      }
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "name": "Academic Leadership",
+        "items": [
+          "Programme Design, Validation & Review",
+          "Quality Assurance & the UK Quality Code",
+          "OfS, QAA & PSRB Compliance",
+          "Student Retention & Progression",
+          "Assessment Design & Moderation",
+          "Mentoring Academic Staff"
+        ]
+      },
+      {
+        "name": "Finance & Fintech",
+        "items": [
+          "Financial & Cost Accounting",
+          "IFRS Financial Reporting",
+          "Regulatory Compliance & Risk",
+          "Blockchain & AI in Finance",
+          "ESG Data Analysis"
+        ]
+      },
+      {
+        "name": "Digital & Tools",
+        "items": [
+          "Canvas & Moodle",
+          "Generative AI for Curriculum Design",
+          "Bloomberg Terminal",
+          "Microsoft Office & Google Workspace",
+          "Zoom & Blended Delivery"
+        ]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "London College of Contemporary Arts",
+      "role": "Subject Lead",
+      "period": "September 2025 — Present",
+      "location": "London, UK",
+      "summary": "Leading subject delivery and quality for programmes validated by the University of the Arts London.",
+      "highlights": [
+        "Contribute to a curriculum enhancement project shaping recommendations on AI and digital tools in teaching and learning.",
+        "Refresh the Canvas VLE and module content each term, aligned to Partner University (UAL) standards.",
+        "Conduct internal verification of modules and audit documentation in line with the University's quality framework."
+      ],
+      "sticker": {
+        "label": "LCCA",
+        "shape": "pill",
+        "color": "#FED7AA"
+      },
+      "points": [
+        "Shaping AI and digital learning in the curriculum",
+        "Internal verification and quality review",
+        "Keeps modules aligned to UAL standards"
+      ]
+    },
+    {
+      "company": "CECOS College London",
+      "role": "Subject Lead",
+      "period": "September 2024 — September 2025",
+      "location": "London, UK",
+      "summary": "Directed day-to-day academic delivery of undergraduate and postgraduate modules.",
+      "highlights": [
+        "Directed delivery of UG and PG modules in line with University of Staffordshire regulations and OfS student outcome standards.",
+        "Coordinated with Registry and Student Services on assessment design, moderation and coursework compliance.",
+        "Mentored junior academic staff."
+      ],
+      "sticker": {
+        "label": "CECOS",
+        "shape": "circle",
+        "color": "#FBCFE8"
+      },
+      "points": [
+        "UG and PG delivery to OfS outcome standards",
+        "Assessment design and moderation",
+        "Mentored junior academic staff"
+      ]
+    },
+    {
+      "company": "Finance & Fintech",
+      "role": "IDFC AMC, Cumulative Ventures, Perfect Investors, Legal-Pythia",
+      "period": "March 2021 — April 2024",
+      "location": "Mumbai & London",
+      "summary": "Compliance, company secretarial and fintech research roles in regulated financial services.",
+      "highlights": [
+        "Managed SEBI filings and IFRS financial statements at IDFC Asset Management and Cumulative Ventures.",
+        "Built evidence-based compliance reporting with the Bloomberg Terminal at Perfect Investors.",
+        "Developed ESG greenwashing detection algorithms with 99.9% accuracy at Legal-Pythia, London."
+      ],
+      "sticker": {
+        "label": "FINANCE",
+        "shape": "tag",
+        "color": "#BBF7D0"
+      },
+      "points": [
+        "SEBI filings and IFRS reporting at IDFC AMC and Cumulative Ventures",
+        "Compliance analytics on Bloomberg at Perfect Investors",
+        "ESG greenwashing detection research at Legal-Pythia, London"
+      ]
+    },
+    {
+      "company": "YTCC Institute",
+      "role": "Founder & Director",
+      "period": "April 2019 — September 2023",
+      "location": "Mumbai, India",
+      "summary": "Founded and led an academic unit teaching Accounting, Finance and Law.",
+      "highlights": [
+        "Built a vocational portfolio in Accounting, Finance and Law with a 100% student pass rate.",
+        "Directed admissions, examinations and timetabling within a risk-based, budget-aligned framework.",
+        "Led and developed a team of ten academic staff."
+      ],
+      "sticker": {
+        "label": "YTCC",
+        "shape": "square",
+        "color": "#BAE6FD"
+      },
+      "points": [
+        "Accounting, Finance and Law portfolio with a 100% pass rate",
+        "Led a team of ten academic staff",
+        "Early interventions for at-risk students"
+      ]
+    },
+    {
+      "company": "Chaitali and Ishani Pvt Ltd",
+      "role": "Visiting Lecturer",
+      "period": "April 2018 — May 2023",
+      "location": "Mumbai, India",
+      "summary": "Taught Financial and Cost Accounting to undergraduate students.",
+      "highlights": [
+        "Taught Financial and Cost Accounting to undergraduates, explaining complex ideas to students with little prior knowledge."
+      ],
+      "sticker": {
+        "label": "C&I",
+        "shape": "circle",
+        "color": "#E9D5FF"
+      },
+      "points": [
+        "Financial and Cost Accounting for undergraduates",
+        "Made complex concepts clear for first-time learners"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "authentech",
+      "title": "Authentech",
+      "subtitle": "Applied research, blockchain prototype",
+      "description": "Led research to build a blockchain-based authentication prototype and turned the findings into curriculum recommendations. Published in the in-house journal of CECOS College London.",
+      "stack": [
+        "Blockchain",
+        "Applied Research",
+        "Curriculum Design"
+      ],
+      "role": "Lead researcher",
+      "year": "2024 — Present",
+      "link": "https://authentech.handsintechnology.in",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "esg-greenwashing",
+      "title": "ESG Greenwashing Detection",
+      "subtitle": "Legal-Pythia, London",
+      "description": "Developed algorithms that detect greenwashing in ESG disclosures with 99.9% accuracy, and brought the findings back into teaching content.",
+      "stack": [
+        "ESG",
+        "Fintech",
+        "Data Analysis"
+      ],
+      "role": "Fintech intern",
+      "year": "2023 — 2024",
+      "link": "",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "ytcc-institute",
+      "title": "YTCC Institute",
+      "subtitle": "Founded and led, Mumbai",
+      "description": "Set the strategy for a vocational academic portfolio in Accounting, Finance and Law, led ten academic staff and used performance data to support at-risk students, reaching a 100% pass rate.",
+      "stack": [
+        "Programme Leadership",
+        "Accounting & Finance",
+        "Student Outcomes"
+      ],
+      "role": "Founder & Director",
+      "year": "2019 — 2023",
+      "link": "https://www.instagram.com/yoginthakkarclasses",
+      "image": "",
+      "highlight": true
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chartered Institute of Management Accountants",
+      "credential": "CIMA, Qualified",
+      "period": "October 2026",
+      "note": "",
+      "sticker": {
+        "label": "CIMA",
+        "shape": "pill",
+        "color": "#FEF08A"
+      }
+    },
+    {
+      "institution": "City University of London, London, UK",
+      "credential": "MSc in Fintech and Systems",
+      "period": "September 2023 — December 2024",
+      "note": "Big Data, Blockchain and AI, Risk Management, Cyber Security",
+      "sticker": {
+        "label": "CITY",
+        "shape": "square",
+        "color": "#FECACA"
+      }
+    },
+    {
+      "institution": "NMIMS, Mumbai, India",
+      "credential": "MSc in Applied Finance and Banking",
+      "period": "August 2022 — December 2024",
+      "note": "Financial Reporting, Financial Analysis, Banking Regulation",
+      "sticker": {
+        "label": "NMIMS",
+        "shape": "tag",
+        "color": "#E9D5FF"
+      }
+    },
+    {
+      "institution": "Indian School of Business Management, Mumbai, India",
+      "credential": "Master's in Commerce",
+      "period": "April 2020 — April 2022",
+      "note": "Taxation, Financial Accounting, Cost and Management Accounting",
+      "sticker": {
+        "label": "ISBM",
+        "shape": "circle",
+        "color": "#BAE6FD"
+      }
+    },
+    {
+      "institution": "Mumbai University, Mumbai, India",
+      "credential": "Bachelor's in Commerce",
+      "period": "April 2015 — October 2019",
+      "note": "",
+      "sticker": {
+        "label": "MU",
+        "shape": "square",
+        "color": "#FED7AA"
+      }
+    }
+  ],
+  "testimonials": []
+}
